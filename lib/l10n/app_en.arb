@@ -1,0 +1,18 @@
+{
+  "camera" : "Camera",
+  "qr_code" :" QR code",
+  "gallery" : "Gallery",
+  "mobile_qr_scanner" : "Mobile QR Scanner",
+  "privacy_policy" : "Privacy Policy",
+  "read" : "read",
+  "the_code_scanned_successfully" : "The code scanned successfully",
+  "failed_to_scan_code" : "Failed to scan code",
+  "created_by" : "Created by",
+  "the_creator" : "Hengell",
+  "github" : "GitHub",
+  "repo" : "github.com/h3ng3ll",
+  "developer_profile" : "Developer profile",
+  "settings" : "Settings",
+  "night_mode" : "Night mode"
+}
+
